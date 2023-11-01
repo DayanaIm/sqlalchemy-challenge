@@ -59,3 +59,6 @@ Make sure to install SQLAlchemy ORM queries, Pandas, and Matplotlib
 
 ## Screenshots
 
+![Precipitation Analysis](SurfsUp/Screenshots/Precipitation-Analysis.png)
+
+![Station Analysis](SurfsUp/Screenshots/Station-Analysis.png)
